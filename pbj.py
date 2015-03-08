@@ -23,7 +23,6 @@ print "Goal 1"
 
 if bread>2 and peanut > 1 and jelly >= 2:
      print("You can make that sandwich!").format(min(bread/2,peanut))
-     print("Looks like you can make {0} PBJ's").format(min(peanut,jelly/2,bread/2))
 else:
      print ("Looks like you're going hungry")
 
