@@ -1,0 +1,32 @@
+## WLratio
+## WLratioconf
+## conf
+## topg
+## rank
+## mascot
+## top25WL
+
+teams = {
+	"Duke":{
+		"WLratio": ".5",
+		"WLratioconf:"0.83",
+		"Conf":"ACC",
+		"topg":"11.4",
+		"rank":"2",
+		"mascot": "Blue Devils"
+		"top25WL":"0.85"
+	}
+
+	"Villanova":{
+		"WLratio": ".93",
+		"WLratioconf:"0.88",
+		"Conf":"Big East",
+		"topg":"10.8",
+		"rank":"2",
+		"mascot": "Wildcats"
+		"top25WL":"1"
+	}
+
+}
+
+teams.keys()
